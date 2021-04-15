@@ -5,4 +5,4 @@
 ### Show the Minimum SOP (Sum of Product).  
 ## Requirement 
 ### Read the input file 
-Your program will read the input file for the minterm information and don’t care term information: 
+  Your program will read the input file for the minterm information and don’t care term information: 
