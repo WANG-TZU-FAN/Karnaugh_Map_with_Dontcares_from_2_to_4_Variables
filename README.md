@@ -1,0 +1,1 @@
+# Karnaugh_Map_with_Dontcares_from_2_to_4_Variables
