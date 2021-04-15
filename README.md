@@ -5,4 +5,8 @@
 ### Show the Minimum SOP (Sum of Product).  
 ## Requirement 
 ### Read the input file 
-  Your program will read the input file for the minterm information and don’t care term information: 
+#### Your program will read the input file for the minterm information and don’t care term information: 
+#### ![image](https://user-images.githubusercontent.com/64151952/114894798-87013c00-9e41-11eb-83c9-d1127704e6b2.png)
+#### -v [Variable number]: Variable number, range(2~4) 
+#### -m [index, index …]: Minterm value index, range(0~2v-1) 
+#### -d [index, index …]: Don’t care index, range(0~2v-1) 
